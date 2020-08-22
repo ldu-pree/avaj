@@ -13,7 +13,8 @@ public class Coords {
 	public void heightUp(int diff, Aircraft thing) {
 		int newH = this.height+diff;
 		if(newH <= 0){
-			lib.writeF(thing.type+"#"+thing.name+"("+thing.uniID+") Landing.\n");
+			newH = 0;
+			lib.writeF(thing.type+"#"+thing.name+"("+thing.uniID+") Landing At Lng["+thing.coords.longitude+"]Lat["+thing.coords.latitude+"]Hgt["+newH+"].\n");
 			if(opts.logLandToTerm){System.out.printf("%s#%s(%d) Landing.%n", thing.type, thing.name, thing.uniID);}
 			Factory.unregisterAircraft(thing.uniID);
 			return;
@@ -25,7 +26,8 @@ public class Coords {
 	public void heightDown(int diff, Aircraft thing) {
 		int newH = this.height-diff;
 		if(newH <= 0){
-			lib.writeF(thing.type+"#"+thing.name+"("+thing.uniID+") Landing.\n");
+			newH = 0;
+			lib.writeF(thing.type+"#"+thing.name+"("+thing.uniID+") Landing At Lng["+thing.coords.longitude+"]Lat["+thing.coords.latitude+"]Hgt["+newH+"].\n");
 			if(opts.logLandToTerm){System.out.printf("%s#%s(%d) Landing.%n", thing.type, thing.name, thing.uniID);}
 			Factory.unregisterAircraft(thing.uniID);
 			return;
