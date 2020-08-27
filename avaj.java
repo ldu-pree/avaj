@@ -45,12 +45,16 @@ public class avaj {
 								final String Weath = Weather.generator.getWeather(things.get(l).coords.longitude, things.get(l).coords.latitude, things.get(l).coords.height);
 								if(opts.logWeath == true){System.out.printf("%s#%s(%d): Weather[%s]%n",things.get(l).type,things.get(l).name,things.get(l).uniID,Weath);}
 								if(Weath.equals("SNOW")){
+									opts.snowcount++;
 									Weather.adjustor.snow(things.get(l));
 								}else if(Weath.equals("SUN")){
+									opts.suncount++;
 									Weather.adjustor.sun(things.get(l));
 								}else if(Weath.equals("RAIN")){
+									opts.raincount++;
 									Weather.adjustor.rain(things.get(l));
 								}else if(Weath.equals("FOG")){
+									opts.fogcount++;
 									Weather.adjustor.fog(things.get(l));
 								}
 							}
@@ -62,12 +66,22 @@ public class avaj {
 						System.out.println("An error occurred closing simulation.txt.");
 						e.printStackTrace();
 					}
+					System.out.println();
 					if(opts.logCrafts == true){
 						for(int l = 0; l < things.size(); l++) {
 							if(things.get(l).active == true){
 								System.out.printf("%s#%s(%d): Active at[%d:%d:%d]%n",things.get(l).type,things.get(l).name,things.get(l).uniID,things.get(l).coords.longitude,things.get(l).coords.latitude,things.get(l).coords.height);
 							}
 						}
+					}
+					if(opts.logWeathChangesPerWeath == true){
+						System.out.printf("Snow Was Found %d Times At A %.2f Chance Each Time%n",opts.snowcount,opts.snowperc);
+						System.out.printf("Sun Was Found %d Times At A %.2f Chance Each Time%n",opts.suncount,opts.sunperc);
+						System.out.printf("Rain Was Found %d Times At A %.2f Chance Each Time%n",opts.raincount,opts.rainperc);
+						System.out.printf("Fog Was Found %d Times At A %.2f Chance Each Time%n",opts.fogcount,opts.fogperc);
+					}
+					if(opts.logWrittenLinesToTerm == true){
+						System.out.printf("Number Of Lines Written: %d%n",opts.writtenlines);
 					}
 				}
 			}

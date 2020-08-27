@@ -7,79 +7,289 @@ Tower says: Helicopter#H3(6) registered to weather tower.
 Tower says: Baloon#B3(7) registered to weather tower.
 Tower says: JetPlane#J2(8) registered to weather tower.
 Tower says: Helicopter#H4(9) registered to weather tower.
+Tower says: Baloon#213123(10) registered to weather tower.
+Tower says: JetPlane#123312(11) registered to weather tower.
+Tower says: Helicopter#123124sfeda(12) registered to weather tower.
+Tower says: Baloon#sdfsdf(13) registered to weather tower.
+Tower says: JetPlane#sfdfdsdfs(14) registered to weather tower.
+Tower says: Helicopter#Hsfdvfdsdf4(15) registered to weather tower.
 Baloon#B1(1): Might Have To Land If The Snow Continues!!!
 Baloon#B1(1) Landing At Lng[2]Lat[3]Hgt[0].
 Tower says: Baloon#B1(1) unregistered from weather tower.
-Baloon#B2(2): Great Weather But The Baloon Doesn't Have Shade
-JetPlane#J1(3): Can't See Anything Need To Slow Down!!!
-Helicopter#H1(4): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
-Helicopter#H2(5): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
-Helicopter#H3(6): Might Have To Land If The Snow Continues!!!
+Baloon#B2(2): Gonna Go Lower Can't See Anything In This Fog!!!
+JetPlane#J1(3): Bloody Snow I Wanna Fly!!!
+Helicopter#H1(4): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+Helicopter#H2(5): Might Have To Land If The Snow Continues!!!
+Helicopter#H3(6): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
 Baloon#B3(7): Might Have To Land If The Snow Continues!!!
-JetPlane#J2(8): I Don't Mind The Rain That Much i Am Too Fast For It!!!
-Helicopter#H4(9): Might Have To Land If The Snow Continues!!!
+JetPlane#J2(8): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#H4(9): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+Baloon#213123(10): Luckily The Big Baloon Stops The Rain!!!
+JetPlane#123312(11): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#123124sfeda(12): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+Baloon#sdfsdf(13): Luckily The Big Baloon Stops The Rain!!!
+JetPlane#sfdfdsdfs(14): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#Hsfdvfdsdf4(15): The Rotors Make The Rain Even Worse!!!
+Baloon#B2(2): Gonna Go Lower Can't See Anything In This Fog!!!
+JetPlane#J1(3): I Don't Mind The Rain That Much i Am Too Fast For It!!!
+Helicopter#H1(4): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+Helicopter#H2(5): Might Have To Land If The Snow Continues!!!
+Helicopter#H3(6): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+Baloon#B3(7): Gonna Go Lower Can't See Anything In This Fog!!!
+JetPlane#J2(8): Can't See Anything Need To Slow Down!!!
+Helicopter#H4(9): The Rotors Make The Rain Even Worse!!!
+Baloon#213123(10): Luckily The Big Baloon Stops The Rain!!!
+JetPlane#123312(11): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#123124sfeda(12): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+Baloon#sdfsdf(13): Might Have To Land If The Snow Continues!!!
+JetPlane#sfdfdsdfs(14): Can't See Anything Need To Slow Down!!!
+Helicopter#Hsfdvfdsdf4(15): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
 Baloon#B2(2): Luckily The Big Baloon Stops The Rain!!!
 JetPlane#J1(3): Bloody Snow I Wanna Fly!!!
 Helicopter#H1(4): Might Have To Land If The Snow Continues!!!
 Helicopter#H2(5): The Rotors Make The Rain Even Worse!!!
+Helicopter#H3(6): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+Baloon#B3(7): Luckily The Big Baloon Stops The Rain!!!
+JetPlane#J2(8): Can't See Anything Need To Slow Down!!!
+Helicopter#H4(9): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+Baloon#213123(10): Might Have To Land If The Snow Continues!!!
+JetPlane#123312(11): Can't See Anything Need To Slow Down!!!
+Helicopter#123124sfeda(12): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+Baloon#sdfsdf(13): Might Have To Land If The Snow Continues!!!
+Baloon#sdfsdf(13) Landing At Lng[102]Lat[22]Hgt[0].
+Tower says: Baloon#sdfsdf(13) unregistered from weather tower.
+JetPlane#sfdfdsdfs(14): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#Hsfdvfdsdf4(15): The Rotors Make The Rain Even Worse!!!
+Baloon#B2(2): Gonna Go Lower Can't See Anything In This Fog!!!
+JetPlane#J1(3): I Don't Mind The Rain That Much i Am Too Fast For It!!!
+Helicopter#H1(4): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+Helicopter#H2(5): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
 Helicopter#H3(6): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
 Baloon#B3(7): Luckily The Big Baloon Stops The Rain!!!
-JetPlane#J2(8): Bloody Snow I Wanna Fly!!!
-Helicopter#H4(9): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
-Baloon#B2(2): Luckily The Big Baloon Stops The Rain!!!
+JetPlane#J2(8): Can't See Anything Need To Slow Down!!!
+Helicopter#H4(9): The Rotors Make The Rain Even Worse!!!
+Baloon#213123(10): Gonna Go Lower Can't See Anything In This Fog!!!
+JetPlane#123312(11): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#123124sfeda(12): The Rotors Make The Rain Even Worse!!!
+JetPlane#sfdfdsdfs(14): Can't See Anything Need To Slow Down!!!
+Helicopter#Hsfdvfdsdf4(15): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+Baloon#B2(2): Gonna Go Lower Can't See Anything In This Fog!!!
+JetPlane#J1(3): I Don't Mind The Rain That Much i Am Too Fast For It!!!
+Helicopter#H1(4): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+Helicopter#H2(5): Might Have To Land If The Snow Continues!!!
+Helicopter#H3(6): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+Baloon#B3(7): Gonna Go Lower Can't See Anything In This Fog!!!
+JetPlane#J2(8): Can't See Anything Need To Slow Down!!!
+Helicopter#H4(9): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+Baloon#213123(10): Gonna Go Lower Can't See Anything In This Fog!!!
+JetPlane#123312(11): Can't See Anything Need To Slow Down!!!
+Helicopter#123124sfeda(12): The Rotors Make The Rain Even Worse!!!
+JetPlane#sfdfdsdfs(14): Can't See Anything Need To Slow Down!!!
+Helicopter#Hsfdvfdsdf4(15): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+Baloon#B2(2): Great Weather But The Baloon Doesn't Have Shade
 JetPlane#J1(3): Bloody Snow I Wanna Fly!!!
 Helicopter#H1(4): The Rotors Make The Rain Even Worse!!!
 Helicopter#H2(5): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
 Helicopter#H3(6): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
 Baloon#B3(7): Luckily The Big Baloon Stops The Rain!!!
-JetPlane#J2(8): I Don't Mind The Rain That Much i Am Too Fast For It!!!
-Helicopter#H4(9): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
-Baloon#B2(2): Gonna Go Lower Can't See Anything In This Fog!!!
-JetPlane#J1(3): Can't See Anything Need To Slow Down!!!
-Helicopter#H1(4): Might Have To Land If The Snow Continues!!!
-Helicopter#H1(4) Landing At Lng[669]Lat[33]Hgt[0].
-Tower says: Helicopter#H1(4) unregistered from weather tower.
-Helicopter#H2(5): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
-Helicopter#H3(6): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
-Baloon#B3(7): Luckily The Big Baloon Stops The Rain!!!
-JetPlane#J2(8): Beautiful Weather Go Faster And Higher I Am Speed!!!
-Helicopter#H4(9): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
-Baloon#B2(2): Gonna Go Lower Can't See Anything In This Fog!!!
-JetPlane#J1(3): I Don't Mind The Rain That Much i Am Too Fast For It!!!
-Helicopter#H2(5): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
-Helicopter#H3(6): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
-Baloon#B3(7): Luckily The Big Baloon Stops The Rain!!!
 Baloon#B3(7) Landing At Lng[102]Lat[22]Hgt[0].
 Tower says: Baloon#B3(7) unregistered from weather tower.
 JetPlane#J2(8): Can't See Anything Need To Slow Down!!!
-Helicopter#H4(9): Might Have To Land If The Snow Continues!!!
-Baloon#B2(2): Gonna Go Lower Can't See Anything In This Fog!!!
-JetPlane#J1(3): Can't See Anything Need To Slow Down!!!
-Helicopter#H2(5): Might Have To Land If The Snow Continues!!!
-Helicopter#H3(6): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
-JetPlane#J2(8): I Don't Mind The Rain That Much i Am Too Fast For It!!!
 Helicopter#H4(9): The Rotors Make The Rain Even Worse!!!
-Baloon#B2(2): Great Weather But The Baloon Doesn't Have Shade
-JetPlane#J1(3): Can't See Anything Need To Slow Down!!!
-Helicopter#H2(5): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
-Helicopter#H3(6): Might Have To Land If The Snow Continues!!!
-JetPlane#J2(8): I Don't Mind The Rain That Much i Am Too Fast For It!!!
-Helicopter#H4(9): The Rotors Make The Rain Even Worse!!!
+Baloon#213123(10): Luckily The Big Baloon Stops The Rain!!!
+Baloon#213123(10) Landing At Lng[102]Lat[22]Hgt[0].
+Tower says: Baloon#213123(10) unregistered from weather tower.
+JetPlane#123312(11): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#123124sfeda(12): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#sfdfdsdfs(14): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#Hsfdvfdsdf4(15): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
 Baloon#B2(2): Great Weather But The Baloon Doesn't Have Shade
 JetPlane#J1(3): Bloody Snow I Wanna Fly!!!
+Helicopter#H1(4): The Rotors Make The Rain Even Worse!!!
 Helicopter#H2(5): Might Have To Land If The Snow Continues!!!
+Helicopter#H2(5) Landing At Lng[29]Lat[33]Hgt[0].
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+JetPlane#J2(8): Can't See Anything Need To Slow Down!!!
+Helicopter#H4(9): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#123312(11): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#123124sfeda(12): The Rotors Make The Rain Even Worse!!!
+JetPlane#sfdfdsdfs(14): Can't See Anything Need To Slow Down!!!
+Helicopter#Hsfdvfdsdf4(15): The Rotors Make The Rain Even Worse!!!
+Baloon#B2(2): Gonna Go Lower Can't See Anything In This Fog!!!
+JetPlane#J1(3): Bloody Snow I Wanna Fly!!!
+JetPlane#J1(3) Landing At Lng[23]Lat[59]Hgt[0].
+Tower says: JetPlane#J1(3) unregistered from weather tower.
+Helicopter#H1(4): Might Have To Land If The Snow Continues!!!
+Helicopter#H1(4) Landing At Lng[668]Lat[33]Hgt[0].
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H3(6): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+JetPlane#J2(8): Can't See Anything Need To Slow Down!!!
+Helicopter#H4(9): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#123312(11): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#123124sfeda(12): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+JetPlane#sfdfdsdfs(14): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#Hsfdvfdsdf4(15): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+Baloon#B2(2): Luckily The Big Baloon Stops The Rain!!!
+Helicopter#H3(6): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+JetPlane#J2(8): Can't See Anything Need To Slow Down!!!
+Helicopter#H4(9): The Rotors Make The Rain Even Worse!!!
+JetPlane#123312(11): Can't See Anything Need To Slow Down!!!
+Helicopter#123124sfeda(12): The Rotors Make The Rain Even Worse!!!
+JetPlane#sfdfdsdfs(14): Can't See Anything Need To Slow Down!!!
+Helicopter#Hsfdvfdsdf4(15): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+Baloon#B2(2): Luckily The Big Baloon Stops The Rain!!!
+Helicopter#H3(6): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#J2(8): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#H4(9): The Rotors Make The Rain Even Worse!!!
+JetPlane#123312(11): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#123124sfeda(12): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#sfdfdsdfs(14): Can't See Anything Need To Slow Down!!!
+Helicopter#Hsfdvfdsdf4(15): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+Baloon#B2(2): Luckily The Big Baloon Stops The Rain!!!
+Helicopter#H3(6): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+JetPlane#J2(8): Can't See Anything Need To Slow Down!!!
+Helicopter#H4(9): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#123312(11): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#123124sfeda(12): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+JetPlane#sfdfdsdfs(14): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#Hsfdvfdsdf4(15): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+Baloon#B2(2): Luckily The Big Baloon Stops The Rain!!!
+Helicopter#H3(6): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#J2(8): Can't See Anything Need To Slow Down!!!
+Helicopter#H4(9): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+JetPlane#123312(11): Can't See Anything Need To Slow Down!!!
+Helicopter#123124sfeda(12): The Rotors Make The Rain Even Worse!!!
+JetPlane#sfdfdsdfs(14): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#Hsfdvfdsdf4(15): The Rotors Make The Rain Even Worse!!!
+Baloon#B2(2): Might Have To Land If The Snow Continues!!!
 Helicopter#H3(6): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
 JetPlane#J2(8): Can't See Anything Need To Slow Down!!!
 Helicopter#H4(9): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
-Baloon#B2(2): Great Weather But The Baloon Doesn't Have Shade
-JetPlane#J1(3): Can't See Anything Need To Slow Down!!!
-Helicopter#H2(5): Might Have To Land If The Snow Continues!!!
-Helicopter#H3(6): The Rotors Make The Rain Even Worse!!!
-JetPlane#J2(8): I Don't Mind The Rain That Much i Am Too Fast For It!!!
-Helicopter#H4(9): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#123312(11): Can't See Anything Need To Slow Down!!!
+Helicopter#123124sfeda(12): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#sfdfdsdfs(14): Can't See Anything Need To Slow Down!!!
+Helicopter#Hsfdvfdsdf4(15): The Rotors Make The Rain Even Worse!!!
 Baloon#B2(2): Might Have To Land If The Snow Continues!!!
-JetPlane#J1(3): I Don't Mind The Rain That Much i Am Too Fast For It!!!
-Helicopter#H2(5): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
-Helicopter#H3(6): Might Have To Land If The Snow Continues!!!
-JetPlane#J2(8): Bloody Snow I Wanna Fly!!!
+Helicopter#H3(6): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#J2(8): Beautiful Weather Go Faster And Higher I Am Speed!!!
 Helicopter#H4(9): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+JetPlane#123312(11): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#123124sfeda(12): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+JetPlane#sfdfdsdfs(14): Can't See Anything Need To Slow Down!!!
+Helicopter#Hsfdvfdsdf4(15): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+Baloon#B2(2): Might Have To Land If The Snow Continues!!!
+Baloon#B2(2) Landing At Lng[5]Lat[8]Hgt[0].
+Tower says: Baloon#B2(2) unregistered from weather tower.
+Helicopter#H3(6): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#J2(8): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#H4(9): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#123312(11): Can't See Anything Need To Slow Down!!!
+Helicopter#123124sfeda(12): The Rotors Make The Rain Even Worse!!!
+JetPlane#sfdfdsdfs(14): Can't See Anything Need To Slow Down!!!
+Helicopter#Hsfdvfdsdf4(15): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+Helicopter#H3(6): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#J2(8): Can't See Anything Need To Slow Down!!!
+Helicopter#H4(9): The Rotors Make The Rain Even Worse!!!
+JetPlane#123312(11): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#123124sfeda(12): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+JetPlane#sfdfdsdfs(14): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#Hsfdvfdsdf4(15): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+Helicopter#H3(6): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#J2(8): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#H4(9): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#123312(11): Can't See Anything Need To Slow Down!!!
+Helicopter#123124sfeda(12): The Rotors Make The Rain Even Worse!!!
+JetPlane#sfdfdsdfs(14): Can't See Anything Need To Slow Down!!!
+Helicopter#Hsfdvfdsdf4(15): The Rotors Make The Rain Even Worse!!!
+Helicopter#H3(6): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+JetPlane#J2(8): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#H4(9): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+JetPlane#123312(11): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#123124sfeda(12): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+JetPlane#sfdfdsdfs(14): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#Hsfdvfdsdf4(15): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+Helicopter#H3(6): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#J2(8): Can't See Anything Need To Slow Down!!!
+Helicopter#H4(9): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+JetPlane#123312(11): Can't See Anything Need To Slow Down!!!
+Helicopter#123124sfeda(12): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+JetPlane#sfdfdsdfs(14): Can't See Anything Need To Slow Down!!!
+Helicopter#Hsfdvfdsdf4(15): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+Helicopter#H3(6): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+JetPlane#J2(8): Can't See Anything Need To Slow Down!!!
+Helicopter#H4(9): The Rotors Make The Rain Even Worse!!!
+JetPlane#123312(11): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#123124sfeda(12): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#sfdfdsdfs(14): Can't See Anything Need To Slow Down!!!
+Helicopter#Hsfdvfdsdf4(15): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+Helicopter#H3(6): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#J2(8): Can't See Anything Need To Slow Down!!!
+Helicopter#H4(9): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+JetPlane#123312(11): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#123124sfeda(12): The Rotors Make The Rain Even Worse!!!
+JetPlane#sfdfdsdfs(14): Can't See Anything Need To Slow Down!!!
+Helicopter#Hsfdvfdsdf4(15): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+Helicopter#H3(6): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+JetPlane#J2(8): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#H4(9): The Rotors Make The Rain Even Worse!!!
+JetPlane#123312(11): Can't See Anything Need To Slow Down!!!
+Helicopter#123124sfeda(12): The Rotors Make The Rain Even Worse!!!
+JetPlane#sfdfdsdfs(14): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#Hsfdvfdsdf4(15): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+Helicopter#H3(6): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#J2(8): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#H4(9): The Rotors Make The Rain Even Worse!!!
+JetPlane#123312(11): Can't See Anything Need To Slow Down!!!
+Helicopter#123124sfeda(12): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#sfdfdsdfs(14): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#Hsfdvfdsdf4(15): The Rotors Make The Rain Even Worse!!!
+Helicopter#H3(6): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#J2(8): Can't See Anything Need To Slow Down!!!
+Helicopter#H4(9): The Rotors Make The Rain Even Worse!!!
+JetPlane#123312(11): Can't See Anything Need To Slow Down!!!
+Helicopter#123124sfeda(12): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+JetPlane#sfdfdsdfs(14): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#Hsfdvfdsdf4(15): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+Helicopter#H3(6): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#J2(8): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#H4(9): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+JetPlane#123312(11): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#123124sfeda(12): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+JetPlane#sfdfdsdfs(14): Can't See Anything Need To Slow Down!!!
+Helicopter#Hsfdvfdsdf4(15): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+Helicopter#H3(6): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#J2(8): Can't See Anything Need To Slow Down!!!
+Helicopter#H4(9): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#123312(11): Can't See Anything Need To Slow Down!!!
+Helicopter#123124sfeda(12): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#sfdfdsdfs(14): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#Hsfdvfdsdf4(15): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+Helicopter#H3(6): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#J2(8): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#H4(9): The Rotors Make The Rain Even Worse!!!
+JetPlane#123312(11): Can't See Anything Need To Slow Down!!!
+Helicopter#123124sfeda(12): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+JetPlane#sfdfdsdfs(14): Can't See Anything Need To Slow Down!!!
+Helicopter#Hsfdvfdsdf4(15): The Rotors Make The Rain Even Worse!!!
+Helicopter#H3(6): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+JetPlane#J2(8): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#H4(9): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#123312(11): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#123124sfeda(12): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+JetPlane#sfdfdsdfs(14): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#Hsfdvfdsdf4(15): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+Helicopter#H3(6): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#J2(8): Can't See Anything Need To Slow Down!!!
+Helicopter#H4(9): The Rotors Make The Rain Even Worse!!!
+JetPlane#123312(11): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#123124sfeda(12): The Rotors Make The Rain Even Worse!!!
+JetPlane#sfdfdsdfs(14): Can't See Anything Need To Slow Down!!!
+Helicopter#Hsfdvfdsdf4(15): Have To Be Careful The Fog Is Making It Hard To See The Ground!!!
+Helicopter#H3(6): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#J2(8): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#H4(9): The Rotors Make The Rain Even Worse!!!
+JetPlane#123312(11): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#123124sfeda(12): I Believe I Can Fly!!! Sunny Helicopter Tours Are Best!!!
+JetPlane#sfdfdsdfs(14): Beautiful Weather Go Faster And Higher I Am Speed!!!
+Helicopter#Hsfdvfdsdf4(15): The Rotors Make The Rain Even Worse!!!
